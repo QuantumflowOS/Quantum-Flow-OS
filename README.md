@@ -1,4 +1,4 @@
-# Quantum Flow OS v14.0 - Ethical Ontology Framework
+# Quantum Flow OS v15.0 - Ethical Ontology Framework
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
